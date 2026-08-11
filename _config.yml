@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Farzaneh Derakhshan
-email: fd@iit.edu
+email: derakhshan.farzaneh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website  
-baseurl: /~fderakhshan # the subpath of your site, e.g. /blog
-url: "https://gauss.cs.iit" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
   name:           'Farzaneh Derakhshan'
