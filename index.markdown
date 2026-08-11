@@ -48,7 +48,7 @@ Carnegie Mellon University<br></span>
 Address: 208F Stuart Building, 10 W 31st Street,<br>
 Illinois Institute of Technology, Chicago, IL 60616<br></span>
 <span style="font-size: 10pt; color:rgb(23, 32, 42); line-height:1">
-Email: [lastname].[firstname] [at] gmail [dot] com</span><br><br>
+Email: [lastname][dot][firstname] [at] gmail [dot] com</span><br><br>
 
 <body>
 <span style=" color:rgb(23, 32, 42); line-height:1">
