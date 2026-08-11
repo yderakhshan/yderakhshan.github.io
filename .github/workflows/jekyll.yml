@@ -23,17 +23,16 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3' # Specify Ruby explicitly (3.3+ handles Bundler properly on modern Node/runners)
-          bundler-cache: true # Caches gems automatically
+          ruby-version: '3.3'
+          bundler-cache: true
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build with Jekyll
-        run: bundle exec jekyll build
+      - name: Build Jekyll Site
+        run: bundle exec jekyll build --destination ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
 
   deploy:
     environment:
