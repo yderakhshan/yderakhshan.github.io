@@ -21,7 +21,7 @@ title: Home
   {% endfor %}
 </div>
 
-![Photo]({{ site.baseurl }}/assets/images/Farzaneh.jpg "Farzaneh"){:style="height:17em;"}
+![Photo]({{ site.baseurl }}/assets/images/Farzaneh.jpg "Farzaneh"){:style="height:14em;"}
 
 <span style="color:rgb(20, 90, 50); font-size: 20pt; font-weight:bold">
 Farzaneh Derakhshan<br></span>
@@ -47,6 +47,7 @@ Before joining Northwestern, I was an assistant professor at the Illinois Instit
 News</span>
 
 <ul style="list-style-type:square;">
+<li>Our paper, <p1>Quantitative Security for Session Types, Denotationally</p1>, has been accepted for publication at POPL 2027.</li>
 <li>I'm happy to be co-organizing a special session on Logic in Computer Science at the ASL 2027 North American Meeting at UIC, Chicago, May 12–15, 2027.</li>
 <li>I joined the Department of Computer Science at Northwestern University as a research assistant professor in October 2026.</li>
 <li>Congratulations to my student <a href="https://myradotzel.github.io/">Myra Dotzel</a>, co-advised with Limin Jia, on completing her Ph.D.! She is now a postdoc at the University of Michigan.</li>
